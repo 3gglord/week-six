@@ -3,4 +3,15 @@
 what approach best suits the story/message/finding that you're trying to convey?
 
 
-wget error http://apeksha-techtalk.blogspot.com/2013/03/wget-errorzsh-parse-error-near.html
+using python to create urls
+https://stackoverflow.com/questions/4288973/whats-the-difference-between-s-and-d-in-python-string-formatting
+got an error message
+made my own urls.txt file by copying one link and then using regex to change the endings for each page
+ran through wget
+got rid of anything I didn't need
+
+
+- wget
+- regex
+- antconc
+- some way of communicating my findings
