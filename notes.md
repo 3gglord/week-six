@@ -16,4 +16,5 @@ what approach best suits the story/message/finding that you're trying to convey?
 - wget
 - regex
 - antconc
+- topic models
 - some way of communicating my findings
