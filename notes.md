@@ -9,6 +9,7 @@ got an error message
 made my own urls.txt file by copying one link and then using regex to change the endings for each page
 ran through wget
 got rid of anything I didn't need
+`<br/>|&amp;|&nbsp;` replace with ` `
 
 
 - wget
