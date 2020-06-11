@@ -33,4 +33,7 @@ https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/
 - regex
 - antconc
 - topic models to get an overview of the themes
+- voyant
 - some way of communicating my findings
+  - poster
+  - **static website**
