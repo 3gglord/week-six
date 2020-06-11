@@ -47,4 +47,5 @@ https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/
 - voyant
 - some way of communicating my findings
   - poster
-  - **static website**
+  - **static website** so that people can interact with the visualizations, especially because I used voyant
+  - would like to add a navigation bar
