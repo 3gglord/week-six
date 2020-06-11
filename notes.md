@@ -27,7 +27,18 @@ https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/
   - and like this after:
   
 - downloading and cleaning up the data took the longest
-
+- running the data through Antconc and filtering for certain words and phrases
+  - transcription oddities like brackets in the middle of words could alter the findings
+  - has a habit of referring to people close to her by their inital (ex. her husband as L. instead of Leonard)
+  
+- voyant
+  - cirrus:
+<iframe style='width: 364px; height: 343px;' src='http://127.0.0.1:8888/tool/Cirrus/?corpus=48039cebd0076122253ce951cbbef258'></iframe>
+  - terms: <iframe style='width: 364px; height: 343px;' src='http://127.0.0.1:8888/tool/CorpusTerms/?corpus=48039cebd0076122253ce951cbbef258'></iframe>
+  - Vita and Leonard terms:
+  <iframe style='width: 364px; height: 343px;' src='http://127.0.0.1:8888/tool/Trends/?query=vita*&query=leonard*&corpus=48039cebd0076122253ce951cbbef258'></iframe>
+  - think, write, book links
+  <iframe style='width: 416px; height: 343px;' src='http://127.0.0.1:8888/tool/CollocatesGraph/?query=think*&query=write*&query=book*&mode=corpus&corpus=48039cebd0076122253ce951cbbef258'></iframe>
 
 - wget
 - regex
