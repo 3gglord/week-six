@@ -9,3 +9,7 @@ discover that the information is messy, or in the not-quite-right format. 80% of
 time, as digital historians, is just getting things into shape for us to begin our 
 exploration! Reflect on Michelle Moravec’s own cycle of exploration and what that 
 might imply for yours.
+
+- wish i had more time to go through the visualizations and searches that I did to get more fleshed-out results
+- very much a starting point
+- need to get more data for the corpus if I were to go any further
