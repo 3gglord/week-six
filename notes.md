@@ -48,7 +48,7 @@ what approach best suits the story/message/finding that you're trying to convey?
 ![antconc-she-her-women-female-girl-search](antconc-she-her-women-female-girl-search.png)
   
 ### topic models
-- something wrong with the dates: ![vw-themes-by-decade](vw-themes-by-decade)
+- something wrong with the dates: ![vw-themes-by-decade](vw-themes-by-decade.png)
 - re-run the code using "year" instead of decade from line 88 onwards
 - turned out like this: ![vw-topics-year](vw-topics-year.png)
   
