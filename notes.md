@@ -13,7 +13,7 @@ what approach best suits the story/message/finding that you're trying to convey?
 
 ### wget and regex
 - tried using python to create urls
-- https://stackoverflow.com/questions/4288973/whats-the-difference-between-s-and-d-in-python-string-formatting
+- used [this website](https://stackoverflow.com/questions/4288973/whats-the-difference-between-s-and-d-in-python-string-formatting) to try and change the original script from week 2 to fit my needs this week
 - got an error message
 ![urls-error](python-urls-error.png)
   - tried looking up ther error message but none of the answers applied to what I was trying to do (they were all math related)
