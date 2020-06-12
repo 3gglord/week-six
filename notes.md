@@ -39,7 +39,8 @@ what approach best suits the story/message/finding that you're trying to convey?
   - transcription oddities like brackets in the middle of words could alter the findings
   - has a habit of referring to people close to her by their inital (ex. her husband as L. instead of Leonard), but also I couldn't be sure that she wasn't abbreviating someone else's name
   - decided to search for full names only
-- `*` to substitute for any letter
+- `*` to substitute for any series of letters attached to the root word
+- `?` to replace any letter in a word
 - `|` search for multiple words/terms
 - searching for words like "a" showed common phrases that she used in her writing: ![antconc-a-search](antconc-a-search.png)
 - more mentions of women than of men
@@ -59,6 +60,7 @@ what approach best suits the story/message/finding that you're trying to convey?
   - embedded the visualizations I wanted to use on the static site with no problems
 
 ### static site building
+- [a link to my site](https://paula-rodrigo.github.io/woolfdiaries.github.io/)
 - some way of communicating my findings
   - poster to display visualizations?
   - Ended up choosing a **static website** so that people can interact with the visualizations, especially because I used voyant
