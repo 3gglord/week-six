@@ -31,6 +31,10 @@ https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/
   - transcription oddities like brackets in the middle of words could alter the findings
   - has a habit of referring to people close to her by their inital (ex. her husband as L. instead of Leonard)
   
+- topic models
+  - something wrong with the dates: 
+  - re-run the code using "year" instead of decade from line 88 onwards
+  
 - voyant
   - cirrus:
 <iframe style='width: 364px; height: 343px;' src='http://127.0.0.1:8888/tool/Cirrus/?corpus=48039cebd0076122253ce951cbbef258'></iframe>
@@ -43,7 +47,7 @@ https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/
 - wget
 - regex
 - antconc
-- topic models to get an overview of the themes
+- topic models to get an overview of the themes https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc
 - voyant
 - some way of communicating my findings
   - poster
