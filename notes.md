@@ -48,4 +48,9 @@ https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/
 - some way of communicating my findings
   - poster
   - **static website** so that people can interact with the visualizations, especially because I used voyant
+  - https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
+  - https://help.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll
+  - https://stackoverflow.com/questions/6348207/making-a-paragraph-in-html-contain-a-text-from-a-file
+  - https://www.w3schools.com/tags/att_object_width.asp
   - would like to add a navigation bar
+  
