@@ -1,6 +1,7 @@
 # Week six notes
 
-- Virginia Woolf's diaries from 1924 to 1929 while writing and publishing her novel, To The Lighthouse
+- Virginia Woolf's diaries from 1924 to 1929 while writing and publishing her novel, *To The Lighthouse* 
+- downloaded from [woolfonline.com](http://woolfonline.com/?node=content/contextual/transcriptions&project=1&parent=2&taxa=41)
 
 ### guiding research questions
 - what approach best suits the story/message/finding that you're trying to convey?
