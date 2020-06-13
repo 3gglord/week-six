@@ -1,5 +1,7 @@
 # Week six journal
 
+[a link to my static site](https://paula-rodrigo.github.io/woolfdiaries.github.io/)
+
 share the results of your explorations. 
 
 Digital history is a process of encountering a body of information that suggests 
