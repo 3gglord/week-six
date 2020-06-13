@@ -1,10 +1,9 @@
 # Week six notes
 
-what approach best suits the story/message/finding that you're trying to convey?
-
 - Virginia Woolf's diaries from 1924 to 1929 while writing and publishing her novel, To The Lighthouse
 
 ### guiding research questions
+- what approach best suits the story/message/finding that you're trying to convey?
 - focus on the content, themes of the diary
 - use corpus linguistics to analyse her process of writing
 - how did Woolf's process invlove the people around her and the society that she was living through
