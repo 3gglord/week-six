@@ -6,7 +6,7 @@
 ### guiding research questions
 - what approach best suits the story/message/finding that you're trying to convey?
 - focus on the content, themes of the diary
-- use corpus linguistics to analyse her process of writing
+- use corpus linguistics analysis to look at her process of writing
 - how did Woolf's process invlove the people around her and the society that she was living through
 - today, she is regarded as a feminist inspiration in her writing. to what extent is that reflected in her diary?
 - how does Woolf write about emotion? 
